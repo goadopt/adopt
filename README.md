@@ -1,0 +1,2 @@
+# goadopt
+Privacy
